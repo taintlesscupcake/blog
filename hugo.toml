@@ -2,6 +2,7 @@ baseURL = 'https://blog.sungjin.dev/'
 languageCode = 'en-us'
 title = "SungJin's Blog"
 # disqusShortname = 'SJ'
+theme = "paper"
 
 [params]
   # color style
@@ -19,6 +20,3 @@ title = "SungJin's Blog"
   avatar = 'https://avatars.githubusercontent.com/u/82138254?v=4'                 # gravatar email or image url
   name = 'SungJin'
 
-[module]
-  [[module.imports]]
-    path = "github.com/nanxiaobei/hugo-paper"
