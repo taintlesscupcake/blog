@@ -20,3 +20,10 @@ theme = "paper"
   avatar = 'https://avatars.githubusercontent.com/u/82138254?v=4'                 # gravatar email or image url
   name = 'SungJin'
 
+[params.giscus]
+  repo = 'taintlesscupcake/blog'                 # see https://giscus.app for more details
+  repoId = 'R_kgDOKnjtMg'
+  category = 'General'
+  categoryId = 'DIC_kwDOKnjtMs4CallH'
+  mapping = 'pathname'
+  theme = 'dark_tritanopia'
