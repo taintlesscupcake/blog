@@ -20,6 +20,8 @@ theme = "paper"
   avatar = 'https://avatars.githubusercontent.com/u/82138254?v=4'                 # gravatar email or image url
   name = 'SungJin'
 
+  math = true                                 # enable math typesetting
+
 [params.giscus]
   repo = 'taintlesscupcake/blog'                 # see https://giscus.app for more details
   repoId = 'R_kgDOKnjtMg'
