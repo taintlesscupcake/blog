@@ -12,7 +12,7 @@
 {{ $bg_color := $.Scratch.Get "bg_color" }}<!---->
 
 <!-- social_list -->
-{{ $social_params := slice "github" "instagram" }}<!---->
+{{ $social_params := slice "github" "instagram" "linkedin" }}<!---->
 {{ range $social_params }}<!---->
 {{ if isset site.Params . }}<!---->
 {{ $.Scratch.Add "social_list" (slice .) }}<!---->
